@@ -61,6 +61,7 @@ Add a scoreboard to the game under the game board. For example, if Red had won o
 - Make use of state management w/ Redux
   - Implement/modify applicable actions
   - Implement/modify applicable reducers
+  - **Note:** If you're not familiar with Redux, it's okay. The basic pattern is already implemented, all that's expected is to follow the pattern and extend the existing functionality.
 - Write at least one unit test
 
 **Bonus**
