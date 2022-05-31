@@ -12,6 +12,8 @@ The following test requires you to be knowledgeable in the following fields:
 - Jest
 - HTML / CSS
 
+> **Note:** This app is compatible with **Node versions 12-16** only.
+
 ## Setup
 
 - Fork this repo https://github.com/friendbuy/connect4
